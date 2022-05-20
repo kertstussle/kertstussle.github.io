@@ -158,7 +158,7 @@ hr{
 @media only screen and (max-width: 600px) {
     .registerdiv{
         flex-wrap: wrap;
-        height: 50vh;
+        height: 40vh;
     }
     .kertslogo{
         width: 100vw;
