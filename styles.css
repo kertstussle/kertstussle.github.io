@@ -152,9 +152,7 @@ hr{
 .contactdiv>h4{
     color: white;
 }
-.coemail{
-    
-}
+
 @media only screen and (max-width: 600px) {
     .registerdiv{
         flex-wrap: wrap;
@@ -184,4 +182,19 @@ hr{
     bottom: 0;
     pointer-events: none;
     z-index: 1000;
+}
+.timerdiv{
+    text-align: center;
+    width: 100vw;
+    
+}
+#demo{
+    color: white;
+
+}
+.hurry{
+    color: coral;
+}
+.ends{
+    color: rgb(253, 176, 8);
 }
