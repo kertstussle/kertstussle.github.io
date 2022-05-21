@@ -198,3 +198,12 @@ hr{
 .ends{
     color: rgb(253, 176, 8);
 }
+.videodiv{
+    width: 100vw;
+    text-align: center;
+    margin:20px 0px;
+    
+}
+iframe{
+    border-radius: 10px;
+}
