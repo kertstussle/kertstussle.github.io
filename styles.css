@@ -172,6 +172,9 @@ hr{
     .para{
         width: 80vw;
     }
+    iframe{
+        width: 80vw;
+    }
     
 }
 #snow {
