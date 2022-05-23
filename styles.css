@@ -152,6 +152,9 @@ hr{
 .contactdiv>h4{
     color: white;
 }
+.contactdiv>p{
+    color: white;
+}
 
 @media only screen and (max-width: 600px) {
     .registerdiv{
